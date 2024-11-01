@@ -1,7 +1,8 @@
 # t1-crypto
 Trabalho 1 da matéria de Criptografia na UFPR
-Baseado na implementação do AES:
 
+Baseado na implementação do AES:
+-Tuesday, 3 Dec 2024, 23:59
 - Trocar a Caixa-S do AES por alguma outra cifra de substituição (exceto Cifra de Cesar)
 - Calcular o tempo total para cifrar e decifrar arquivos de tamanhos diversos (serão disponibilizados) 
 - Calcular o custo para cifrar e decifrar de cada fase do algoritmo.
